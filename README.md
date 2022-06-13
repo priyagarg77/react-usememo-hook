@@ -1,3 +1,3 @@
 # react-usememo-hook
 
-Usuage of useMemo hook
+Usage of useMemo hook
