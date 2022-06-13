@@ -1,3 +1,3 @@
-# react-p3my6c
+# react-usememo-hook
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-p3my6c)
+Usuage of useMemo hook
